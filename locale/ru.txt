@@ -1,0 +1,131 @@
+#: locale=ru
+
+## VR Menu
+
+### Text
+MenuItem_36ABD57A_85A5_04F0_41D1_E91B095E3197.label = CAM001_HDR_BREACTAKING
+MenuItem_36AB057A_85A5_04F0_41CD_542D406C116B.label = CAM002_HDR_BREACTAKING
+MenuItem_36AB357A_85A5_04F0_41D0_A5FC78344172.label = CAM003_HDR_BREACTAKING
+MenuItem_36AB257A_85A5_04F0_41C8_098A80053DE5.label = CAM004_HDR_BREACTAKING
+MenuItem_0EA0898A_107E_8D76_4182_1DD9D87A34D2.label = IMG_20250524_182347_00_210
+MenuItem_0EA0998A_107E_8D76_41A0_547939F4BEC3.label = IMG_20250524_182504_00_211
+MenuItem_0EA1C98A_107E_8D76_41A2_E0A821E4C8EC.label = IMG_20250524_182635_00_212
+MenuItem_0EA1D989_107E_8D72_41AF_68AC10DF7F50.label = IMG_20250524_182758_00_213
+MenuItem_0EA1798A_107E_8D76_4184_12C1276086CB.label = IMG_20250524_182834_00_214
+MenuItem_0EDF798A_107E_8D76_41A2_A6669052DECD.label = IMG_20250524_182913_00_215
+MenuItem_0EA0298A_107E_8D76_41A4_A882962A31D1.label = IMG_20250524_182953_00_216
+MenuItem_0EA0D98A_107E_8D76_418B_2BF289D20662.label = IMG_20250524_183024_00_217
+MenuItem_0EA0E98A_107E_8D76_4183_6356F9EB3572.label = IMG_20250524_183142_00_218
+MenuItem_0EDF598A_107E_8D76_41AC_CAA5C86281F1.label = IMG_20250524_183226_00_219
+MenuItem_0EA0B98A_107E_8D76_41A3_29B6F21DCE8F.label = IMG_20250524_183349_00_220
+MenuItem_0EA1398A_107E_8D76_4161_3E369D2BD4A0.label = IMG_20250524_183541_00_221
+MenuItem_936CF607_866E_5B89_41D0_681F00EFB131.label = MARKA_IC_CAM001
+MenuItem_936C1607_866E_5B89_41D2_A096E8D0AF28.label = MARKA_IC_CAM002
+MenuItem_936CE607_866E_5B89_41C0_95A424FD7AAA.label = MARKA_IC_CAM003
+MenuItem_936C0607_866E_5B89_41C1_A58202FE55BB.label = MARKA_IC_CAM004
+MenuItem_36AB157A_85A5_04F0_4191_4EC877154605.label = MARKA_SHOWROOM_360_offset_lowsound
+Menu_36BCE523_85A5_0410_41D9_CE44A683E470.label = Media
+MenuItem_0BCAC1A1_10E4_70A9_4193_071904402E63.label = ТОЧКА_1
+MenuItem_0BCA11A1_10E4_70A9_41AA_C7E523C70B9E.label = ТОЧКА_2
+MenuItem_0BCAD1A0_10E4_70A7_4191_DDFB09A3DFED.label = ТОЧКА_3
+MenuItem_0BCA71A1_10E4_70A9_41A9_B42C082CF044.label = ТОЧКА_4
+MenuItem_0BCA21A1_10E4_70A9_4193_EFB9068B765E.label = ТОЧКА_5
+MenuItem_0BCAE1A0_10E4_70A7_4191_AE7F19D2EE1F.label = ТОЧКА_6
+MenuItem_0BCA01A1_10E4_70A9_41A8_C6EE99FB732E.label = ТОЧКА_7
+MenuItem_0BCA31A1_10E4_70A9_41A1_957E88408C80.label = ТОЧКА_8
+
+## Действие
+
+### URL
+LinkBehaviour_F3854E54_85ED_0430_41DF_0275FBCC00E9.source = https://marka.life/
+LinkBehaviour_F19D0FC3_85E7_0411_41A5_6BD94EECE016.source = https://marka.life/
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://yandex.ru/map-widget/v1/?ll=40.980651%2C57.741020&mode=poi&poi%5Bpoint%5D=40.980559%2C57.741053&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D1344237734&z=21
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://yandex.ru/map-widget/v1/?ll=40.980651%2C57.741020&mode=poi&poi%5Bpoint%5D=40.980559%2C57.741053&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D1344237734&z=21
+
+## Медиа
+
+### Заголовок
+map_1EE5AE72_10E4_F3AA_417F_7614BC4F8CFA.label = R_0
+panorama_1EE71316_10DD_F16A_41A8_E2F7D0726937.label = ТОЧКА_1
+panorama_1C478C0B_10DD_F779_418B_C15EBA30CC12.label = ТОЧКА_2
+panorama_1C4724CD_10DC_10F9_41A2_1619E8C142D0.label = ТОЧКА_3
+panorama_1C477DC9_10DC_10F9_41AC_3DE61804779B.label = ТОЧКА_4
+panorama_1C4866FF_10DC_3099_41A6_37E06E8CF4DB.label = ТОЧКА_5
+panorama_1C48F058_10DC_0FE7_419C_4AB978B78C5D.label = ТОЧКА_6
+panorama_1C48F251_10DC_73E9_4186_3B04CBB810AC.label = ТОЧКА_7
+panorama_1C4899BF_10DC_1099_4163_4040B7654688.label = ТОЧКА_8
+
+### Изображение
+imlevel_1CE21D68_1100_2244_4194_9BC7FF22C5E0.url = media/map_1EE5AE72_10E4_F3AA_417F_7614BC4F8CFA_ru_0.webp
+imlevel_1CE20D68_1100_2244_4185_8FBDA67C1268.url = media/map_1EE5AE72_10E4_F3AA_417F_7614BC4F8CFA_ru_1.webp
+imlevel_1CE27D68_1100_2244_41B0_AFA777B0A059.url = media/map_1EE5AE72_10E4_F3AA_417F_7614BC4F8CFA_ru_2.webp
+imlevel_1CE24D68_1100_2244_41A9_003718F9EA8B.url = media/map_1EE5AE72_10E4_F3AA_417F_7614BC4F8CFA_ru_3.webp
+
+### Поэтажный план
+
+## Скин
+
+### Image
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_ru.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_ru.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_ru.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_ru.jpg
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_ru.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_ru.png
+
+### Кнопка
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = DEV
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = DEVELOPER
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = INFO
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = LOCATION
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = PHOTOALBUM
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOS
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = WBESITE
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = website
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = ПАНОРАМЫ
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = ПАНОРАМЫ
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = ПЛАНИРОВКА
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = ПЛАНИРОВКА
+
+### Многострочный текст
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Hello World!</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.260000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">ПЛАНИРОВКА:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">ПАНОРАМЫ:</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">ПЛАНИРОВКА:</SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.67vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vh;font-family:'Bebas Neue Bold';">DEVELOPER</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.93vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.93vmin;font-family:'Bebas Neue Bold';">LAPIN PAUL</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5099999999999993vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;font-family:'Bebas Neue Bold';">CG ARTIST</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.189999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Tlf.: +7 906 609 9911</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.189999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">standpoint@list.ru</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.189999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://lapin-lab.tilda.ws/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-size:2.19vmin;font-family:'Bebas Neue Bold';">www.LAPIN-LAB.RU</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.17399438727783vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.17vmin;font-family:'Bebas Neue Bold';">MARKA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.8063610851262895vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.81vmin;font-family:'Bebas Neue Bold';">ИНТЕРАКТИВНЫЙ КОНСТРУКТОР</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.37vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.37vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.6838166510757715vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.68vmin;">Описание</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">MARKA</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.390000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">в Костроме</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;font-family:'Bebas Neue Bold';">Флагманский салон Marka</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;font-family:'Bebas Neue Bold';">ул. Профсоюзная, 3А</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;font-family:'Bebas Neue Bold';">пн–пт: 10–20, сб: 10–18, вс: 10–17</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;font-family:'Bebas Neue Bold';">+7 (4942) 46-14-51</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">ПАНОРАМЫ:</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.73vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">MARKA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">ИНТЕРАКТИВНЫЙ КОНСТРУКТОР</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Описание</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:11.669916666666666vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:11.67vmin;font-family:'Bebas Neue Bold';">LAPIN PAUL</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7.453305555555552vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.45vmin;font-family:'Bebas Neue Bold';">CG ARTIST</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6.5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.29vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.50308333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:6.5vmin;font-family:'Bebas Neue Bold';">Tlf.: +7 906 609 9911</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.50308333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:6.5vmin;font-family:'Bebas Neue Bold';">standpoint@list.ru</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.50308333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://lapin-lab.tilda.ws/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-size:6.5vmin;font-family:'Bebas Neue Bold';">www.LAPIN-LAB.RU</SPAN></A></SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:19.806194444444436vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:19.81vmin;font-family:'Bebas Neue Bold';">MARKA</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.52vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.29vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:10.066416666666674vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.07vmin;font-family:'Bebas Neue Bold';">в Костроме</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10.07vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.29vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.216611111111109vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.22vmin;font-family:'Bebas Neue Bold';">Флагманский салон Marka</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.216611111111109vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.22vmin;font-family:'Bebas Neue Bold';">ул. Профсоюзная, 3А</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.216611111111109vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.22vmin;font-family:'Bebas Neue Bold';">пн–пт: 10–20, сб: 10–18, вс: 10–17</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.216611111111109vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.22vmin;font-family:'Bebas Neue Bold';">+7 (4942) 46-14-51</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Обозначение
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = MARKA
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = MARKA
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = ИНТЕРАКТИВНЫЙ КОНСТРУКТОР
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = ИНТЕРАКТИВНЫЙ КОНСТРУКТОР
+
+## Тур
+
+### Заголовок
+tour.name = HUT_2
+
+### Описание
+
+## Хотспот
+
+### Подсказка
+HotspotMapOverlayArea_04CF37EC_1045_84B2_41A2_7072BC86BDD4.toolTip = 1
+HotspotMapOverlayArea_053894B6_1042_849E_417C_D61D1A8020B4.toolTip = 2
+HotspotMapOverlayArea_06571E0C_1042_8772_4150_FA1FB62158FC.toolTip = 3
+HotspotMapOverlayArea_05A3C158_104D_9D92_41A3_E8FA68877ABB.toolTip = 4
+HotspotMapOverlayArea_0619A2D6_104E_9C9E_4184_EEDE6689FB1A.toolTip = 5
+HotspotMapOverlayArea_06BF72B6_104F_9C9E_41AB_CDC85F094D7A.toolTip = 6
+HotspotMapOverlayArea_069926C4_104E_84F2_4186_4A5EA300EFBA.toolTip = 7
+HotspotMapOverlayArea_072D36AC_104D_84B2_4183_23D473D8FC30.toolTip = 8
